@@ -13,6 +13,7 @@
    La esfera cae por la gravedad.
 
 3) Ambos tienen físicas.
+
    ![Ambos fisica](images/Ambos%20fisica.gif)
 
     Ambos caen (les afecta la gravedad).
