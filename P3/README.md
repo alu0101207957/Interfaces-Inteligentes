@@ -5,4 +5,4 @@ He programado dos eventos del tipo delegado Colision y un evento con Acercamient
 
 Si el jugador colisiona con B, se muestra un mensaje por pantalla, escrito por A que dice que hubo una colision con B.
 
-![Texto alternativo](/gif/2021-11-05%2013-51-21_Trim.gif)
+![Texto alternativo](./gif/2021-11-05%2013-51-21_Trim.gif)
