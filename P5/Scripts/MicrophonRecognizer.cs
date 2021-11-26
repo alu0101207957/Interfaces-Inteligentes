@@ -63,7 +63,9 @@ public class MicrophonRecognizer : MonoBehaviour
         if (record){    
             if(dictation){
                 m_DictationRecognizer.Stop();
+		PhraseRecognitionSystem.Shutdown();
                 m_DictationRecognizer.Dispose();
+		
             }
             m_Recognizer.Start();
         } else {
